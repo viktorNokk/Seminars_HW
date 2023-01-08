@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb4829c0-fa76-4beb-9ee4-0c0fa30794f1" name="Changes" comment="added sem2 task3">
-      <change afterPath="$PROJECT_DIR$/Java03_04_HW/Java03_04_HW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java04_01_HW/Java04_01_HW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java04_01_HW/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java04_02_HW/Java04_02_HW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java04_02_HW/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java04_03_HW/Java04_03_HW.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java04_03_HW/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java04_04_HW/src/Main.java" afterDir="false" />
+    <list default="true" id="cb4829c0-fa76-4beb-9ee4-0c0fa30794f1" name="Changes" comment="added sem4 task1-4">
+      <change afterPath="$PROJECT_DIR$/Java04_04_HW/Java04_04_HW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java05_01_HW/Java05_01_HW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java05_01_HW/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java05_02_HW/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -85,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672608871668</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added sem2 task3">
+      <created>1672944971101</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1672944971101</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
